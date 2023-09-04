@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\bin\Debug\net6.0\Scheduling.exe
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\bin\Debug\net6.0\Scheduling.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\bin\Debug\net6.0\Scheduling.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\bin\Debug\net6.0\Scheduling.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\bin\Debug\net6.0\Scheduling.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\Scheduling.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\Scheduling.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\Scheduling.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\Scheduling.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\refint\Scheduling.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\Scheduling.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\Scheduling.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Scheduling\Scheduling\obj\Debug\net6.0\ref\Scheduling.dll

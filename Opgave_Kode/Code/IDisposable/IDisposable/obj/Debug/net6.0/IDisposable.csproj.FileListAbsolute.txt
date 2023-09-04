@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\bin\Debug\net6.0\IDisposable.exe
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\bin\Debug\net6.0\IDisposable.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\bin\Debug\net6.0\IDisposable.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\bin\Debug\net6.0\IDisposable.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\bin\Debug\net6.0\IDisposable.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\IDisposable.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\IDisposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\IDisposable.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\IDisposable.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\IDisposable.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\IDisposable.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\refint\IDisposable.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\IDisposable.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\IDisposable.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\IDisposable\IDisposable\obj\Debug\net6.0\ref\IDisposable.dll

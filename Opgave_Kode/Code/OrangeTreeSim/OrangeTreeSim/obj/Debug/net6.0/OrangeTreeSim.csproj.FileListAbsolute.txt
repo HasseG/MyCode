@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.exe
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.deps.json
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.dll
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.pdb
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.dll
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\refint\OrangeTreeSim.dll
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.pdb
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\Code\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\ref\OrangeTreeSim.dll

@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\bin\Debug\net6.0\Trådsikring.exe
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\bin\Debug\net6.0\Trådsikring.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\bin\Debug\net6.0\Trådsikring.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\bin\Debug\net6.0\Trådsikring.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\bin\Debug\net6.0\Trådsikring.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\Trådsikring.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\Trådsikring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\Trådsikring.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\Trådsikring.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\Trådsikring.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\Trådsikring.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\refint\Trådsikring.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\Trådsikring.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\Trådsikring.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Trådsikring\Trådsikring\obj\Debug\net6.0\ref\Trådsikring.dll

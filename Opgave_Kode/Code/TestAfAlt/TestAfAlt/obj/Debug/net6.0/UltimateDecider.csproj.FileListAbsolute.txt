@@ -1,0 +1,15 @@
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\bin\Debug\net6.0\UltimateDecider.exe
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\bin\Debug\net6.0\UltimateDecider.deps.json
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\bin\Debug\net6.0\UltimateDecider.runtimeconfig.json
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\bin\Debug\net6.0\UltimateDecider.dll
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\bin\Debug\net6.0\UltimateDecider.pdb
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\UltimateDecider.csproj.AssemblyReference.cache
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\UltimateDecider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\UltimateDecider.AssemblyInfoInputs.cache
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\UltimateDecider.AssemblyInfo.cs
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\UltimateDecider.csproj.CoreCompileInputs.cache
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\UltimateDecider.dll
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\refint\UltimateDecider.dll
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\UltimateDecider.pdb
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\UltimateDecider.genruntimeconfig.cache
+C:\Users\hasse\source\repos\ucl\Opgave_Kode\Code\TestAfAlt\TestAfAlt\obj\Debug\net6.0\ref\UltimateDecider.dll

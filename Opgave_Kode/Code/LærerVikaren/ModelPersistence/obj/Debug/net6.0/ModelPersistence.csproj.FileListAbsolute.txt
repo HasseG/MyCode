@@ -1,0 +1,12 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\bin\Debug\net6.0\ModelPersistence.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\bin\Debug\net6.0\ModelPersistence.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\bin\Debug\net6.0\ModelPersistence.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\obj\Debug\net6.0\ModelPersistence.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\obj\Debug\net6.0\ModelPersistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\obj\Debug\net6.0\ModelPersistence.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\obj\Debug\net6.0\ModelPersistence.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\obj\Debug\net6.0\ModelPersistence.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\obj\Debug\net6.0\ModelPersistence.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\obj\Debug\net6.0\refint\ModelPersistence.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\obj\Debug\net6.0\ModelPersistence.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\LærerVikaren\ModelPersistence\obj\Debug\net6.0\ref\ModelPersistence.dll

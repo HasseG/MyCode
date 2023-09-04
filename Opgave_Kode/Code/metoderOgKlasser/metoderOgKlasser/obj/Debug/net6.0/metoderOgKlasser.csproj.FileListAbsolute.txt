@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\bin\Debug\net6.0\metoderOgKlasser.exe
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\bin\Debug\net6.0\metoderOgKlasser.deps.json
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\bin\Debug\net6.0\metoderOgKlasser.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\bin\Debug\net6.0\metoderOgKlasser.dll
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\bin\Debug\net6.0\metoderOgKlasser.pdb
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\metoderOgKlasser.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\metoderOgKlasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\metoderOgKlasser.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\metoderOgKlasser.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\metoderOgKlasser.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\metoderOgKlasser.dll
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\refint\metoderOgKlasser.dll
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\metoderOgKlasser.pdb
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\metoderOgKlasser.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\Code\metoderOgKlasser\metoderOgKlasser\obj\Debug\net6.0\ref\metoderOgKlasser.dll

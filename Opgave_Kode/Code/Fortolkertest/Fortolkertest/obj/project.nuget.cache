@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zjXz40B+9QvDPRwSbn6q/vNQWo+Zl+64YWsBlWqMC7NCAt+LRXGcvpK2cXVOVJnt1y8HHQMhP54vZP7Wwu57Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\Desktop\\Studie\\GitLab\\ucl\\Opgave_Kode\\Code\\Fortolkertest\\Fortolkertest\\Fortolkertest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

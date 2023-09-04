@@ -1,0 +1,12 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\bin\Debug\net6.0\TotallySafeLib.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\bin\Debug\net6.0\TotallySafeLib.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\bin\Debug\net6.0\TotallySafeLib.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\obj\Debug\net6.0\TotallySafeLib.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\obj\Debug\net6.0\TotallySafeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\obj\Debug\net6.0\TotallySafeLib.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\obj\Debug\net6.0\TotallySafeLib.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\obj\Debug\net6.0\TotallySafeLib.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\obj\Debug\net6.0\TotallySafeLib.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\obj\Debug\net6.0\refint\TotallySafeLib.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\obj\Debug\net6.0\TotallySafeLib.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\CustomExceptionHandling\TotallySafeLib\obj\Debug\net6.0\ref\TotallySafeLib.dll

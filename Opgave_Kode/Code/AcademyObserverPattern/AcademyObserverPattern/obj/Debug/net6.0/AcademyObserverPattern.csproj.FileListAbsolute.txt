@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\bin\Debug\net6.0\AcademyObserverPattern.exe
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\bin\Debug\net6.0\AcademyObserverPattern.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\bin\Debug\net6.0\AcademyObserverPattern.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\bin\Debug\net6.0\AcademyObserverPattern.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\bin\Debug\net6.0\AcademyObserverPattern.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\AcademyObserverPattern.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\AcademyObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\AcademyObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\AcademyObserverPattern.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\AcademyObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\AcademyObserverPattern.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\refint\AcademyObserverPattern.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\AcademyObserverPattern.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\AcademyObserverPattern.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\AcademyObserverPattern\AcademyObserverPattern\obj\Debug\net6.0\ref\AcademyObserverPattern.dll

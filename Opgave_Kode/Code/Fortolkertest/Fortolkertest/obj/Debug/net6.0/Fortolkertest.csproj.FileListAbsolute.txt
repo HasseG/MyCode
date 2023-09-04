@@ -1,0 +1,17 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\bin\Debug\net6.0\Fortolkertest.exe
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\bin\Debug\net6.0\Fortolkertest.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\bin\Debug\net6.0\Fortolkertest.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\bin\Debug\net6.0\Fortolkertest.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\bin\Debug\net6.0\Fortolkertest.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\Fortolkertest.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\Fortolkertest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\Fortolkertest.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\Fortolkertest.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\Fortolkertest.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\Fortolkertest.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\refint\Fortolkertest.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\Fortolkertest.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\Fortolkertest.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\ref\Fortolkertest.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Fortolkertest\Fortolkertest\obj\Debug\net6.0\Fortolkertest.csproj.CopyComplete

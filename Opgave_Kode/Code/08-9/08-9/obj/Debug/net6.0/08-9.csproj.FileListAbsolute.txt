@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\bin\Debug\net6.0\08-9.exe
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\bin\Debug\net6.0\08-9.deps.json
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\bin\Debug\net6.0\08-9.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\bin\Debug\net6.0\08-9.dll
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\bin\Debug\net6.0\08-9.pdb
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\08-9.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\08-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\08-9.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\08-9.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\08-9.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\08-9.dll
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\refint\08-9.dll
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\08-9.pdb
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\08-9.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\Code\08-9\08-9\obj\Debug\net6.0\ref\08-9.dll

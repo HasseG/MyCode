@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll

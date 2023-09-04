@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UtilityLab/1.0.0": {
+        "dependencies": {
+          "Disaheim": "1.0.0"
+        },
+        "runtime": {
+          "UtilityLab.dll": {}
+        }
+      },
+      "Disaheim/1.0.0": {
+        "runtime": {
+          "Disaheim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UtilityLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Disaheim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

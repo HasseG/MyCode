@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\bin\Debug\net6.0\Interlocked.exe
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\bin\Debug\net6.0\Interlocked.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\bin\Debug\net6.0\Interlocked.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\bin\Debug\net6.0\Interlocked.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\bin\Debug\net6.0\Interlocked.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\Interlocked.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\Interlocked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\Interlocked.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\Interlocked.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\Interlocked.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\Interlocked.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\refint\Interlocked.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\Interlocked.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\Interlocked.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Interlocked\Interlocked\obj\Debug\net6.0\ref\Interlocked.dll

@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\bin\Debug\net6.0\MyFirstProject.exe
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\bin\Debug\net6.0\MyFirstProject.deps.json
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\bin\Debug\net6.0\MyFirstProject.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\bin\Debug\net6.0\MyFirstProject.dll
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\bin\Debug\net6.0\MyFirstProject.pdb
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\MyFirstProject.dll
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\refint\MyFirstProject.dll
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\MyFirstProject.pdb
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\Code\MyFirstProject\MyFirstProject\obj\Debug\net6.0\ref\MyFirstProject.dll

@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\bin\Debug\net6.0\Process01.exe
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\bin\Debug\net6.0\Process01.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\bin\Debug\net6.0\Process01.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\bin\Debug\net6.0\Process01.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\bin\Debug\net6.0\Process01.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\Process01.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\Process01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\Process01.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\Process01.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\Process01.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\Process01.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\refint\Process01.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\Process01.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\Process01.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\Process01\Process01\obj\Debug\net6.0\ref\Process01.dll

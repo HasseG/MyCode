@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusApp", "BonusApp\BonusApp.csproj", "{071D9FDC-8888-4DF1-A72A-F60FFBCBFE5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{20FEF80B-F4AC-4B3F-9EAE-D546578F4B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071D9FDC-8888-4DF1-A72A-F60FFBCBFE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071D9FDC-8888-4DF1-A72A-F60FFBCBFE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071D9FDC-8888-4DF1-A72A-F60FFBCBFE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071D9FDC-8888-4DF1-A72A-F60FFBCBFE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20FEF80B-F4AC-4B3F-9EAE-D546578F4B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FEF80B-F4AC-4B3F-9EAE-D546578F4B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FEF80B-F4AC-4B3F-9EAE-D546578F4B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FEF80B-F4AC-4B3F-9EAE-D546578F4B21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E313C6B6-E237-4683-B4DB-B84E53A6A33B}
+	EndGlobalSection
+EndGlobal

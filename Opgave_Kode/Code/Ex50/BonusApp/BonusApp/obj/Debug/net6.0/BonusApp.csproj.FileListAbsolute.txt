@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\bin\Debug\net6.0\BonusApp.exe
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\bin\Debug\net6.0\BonusApp.deps.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\bin\Debug\net6.0\BonusApp.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\bin\Debug\net6.0\BonusApp.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\bin\Debug\net6.0\BonusApp.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\BonusApp.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\BonusApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\BonusApp.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\BonusApp.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\BonusApp.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\BonusApp.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\refint\BonusApp.dll
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\BonusApp.pdb
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\BonusApp.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitLab\ucl\Opgave_Kode\Code\BonusApp\BonusApp\obj\Debug\net6.0\ref\BonusApp.dll

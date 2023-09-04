@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\bin\Debug\net6.0\opgave-07-09.exe
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\bin\Debug\net6.0\opgave-07-09.deps.json
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\bin\Debug\net6.0\opgave-07-09.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\bin\Debug\net6.0\opgave-07-09.dll
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\bin\Debug\net6.0\opgave-07-09.pdb
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\opgave-07-09.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\opgave-07-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\opgave-07-09.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\opgave-07-09.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\opgave-07-09.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\opgave-07-09.dll
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\refint\opgave-07-09.dll
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\opgave-07-09.pdb
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\opgave-07-09.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\Code\opgave-07-09\opgave-07-09\obj\Debug\net6.0\ref\opgave-07-09.dll
