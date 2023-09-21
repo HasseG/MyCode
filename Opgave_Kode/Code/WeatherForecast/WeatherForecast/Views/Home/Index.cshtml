@@ -1,0 +1,14 @@
+﻿@using WeatherForecast.Models.DTO;
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+<ul>
+	@foreach (var weather in ViewData["Weather"] as IList<Weather>)
+	{
+		<li>
+			@weather.description
+			<img src=@ViewData["IconUrl"] />
+		</li>
+	}
+</ul>

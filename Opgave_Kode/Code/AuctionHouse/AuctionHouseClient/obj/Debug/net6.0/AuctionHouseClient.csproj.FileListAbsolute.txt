@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\bin\Debug\net6.0\AuctionHouseClient.exe
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\bin\Debug\net6.0\AuctionHouseClient.deps.json
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\bin\Debug\net6.0\AuctionHouseClient.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\bin\Debug\net6.0\AuctionHouseClient.dll
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\bin\Debug\net6.0\AuctionHouseClient.pdb
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\AuctionHouseClient.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\AuctionHouseClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\AuctionHouseClient.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\AuctionHouseClient.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\AuctionHouseClient.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\AuctionHouseClient.dll
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\refint\AuctionHouseClient.dll
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\AuctionHouseClient.pdb
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\AuctionHouseClient.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\AuctionHouse\AuctionHouseClient\obj\Debug\net6.0\ref\AuctionHouseClient.dll
