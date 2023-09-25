@@ -19,12 +19,12 @@ namespace WeatherForecast.Controllers
 
 		public async Task<IActionResult> Index()
 		{
-			using HttpResponseMessage response = await _client.GetAsync("http://api.openweathermap.org/data/2.5/weather?q=Odense,dk&APPID=b2eb1817e794b2764020207d96717449");
+			using HttpResponseMessage response = await _client.GetAsync("https://localhost:7207/GetWeather");
 			response.EnsureSuccessStatusCode();
 			string responseBody = await response.Content.ReadAsStringAsync();
 
 			Console.WriteLine(responseBody);
-
+				
 			Root forecast = JsonSerializer.Deserialize<Root>(responseBody)!;
 
 			ViewData["Weather"] = forecast.weather;
