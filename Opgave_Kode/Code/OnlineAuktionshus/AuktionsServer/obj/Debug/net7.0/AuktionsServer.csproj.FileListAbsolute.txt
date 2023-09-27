@@ -1,0 +1,36 @@
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.csproj.AssemblyReference.cache
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.AssemblyInfoInputs.cache
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.AssemblyInfo.cs
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.csproj.CoreCompileInputs.cache
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.exe
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.deps.json
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.runtimeconfig.json
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.dll
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.pdb
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\Tools.dll
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\Tools.pdb
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.csproj.CopyComplete
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.dll
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\refint\AuktionsServer.dll
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.pdb
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.genruntimeconfig.cache
+C:\Users\allan\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio\Projects\2023\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\ref\AuktionsServer.dll
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.exe
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.deps.json
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.runtimeconfig.json
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.dll
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\AuktionsServer.pdb
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\Tools.dll
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\bin\Debug\net7.0\Tools.pdb
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.csproj.AssemblyReference.cache
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.AssemblyInfoInputs.cache
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.AssemblyInfo.cs
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.csproj.CoreCompileInputs.cache
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.csproj.CopyComplete
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.dll
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\refint\AuktionsServer.dll
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.pdb
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\AuktionsServer.genruntimeconfig.cache
+C:\Users\hasse\Desktop\OnlineAuktionshus\AuktionsServer\obj\Debug\net7.0\ref\AuktionsServer.dll
