@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Policy;
 using System.Text.Json;
 using WeatherForecast.Models;
-using WeatherForecast.Models.DTO;
 
 namespace WeatherForecast.Controllers
 {
@@ -19,18 +19,46 @@ namespace WeatherForecast.Controllers
 
 		public async Task<IActionResult> Index()
 		{
-			using HttpResponseMessage response = await _client.GetAsync("https://localhost:7207/GetWeather");
-			response.EnsureSuccessStatusCode();
-			string responseBody = await response.Content.ReadAsStringAsync();
+			//List<Root> forecasts = new List<Root>();
+			//using HttpResponseMessage response = await _client.GetAsync("https://localhost:7207/GetWeather");
+			//response.EnsureSuccessStatusCode();
+			//string responseBody = await response.Content.ReadAsStringAsync();
 
-			Console.WriteLine(responseBody);
-				
-			Root forecast = JsonSerializer.Deserialize<Root>(responseBody)!;
-
-			ViewData["Weather"] = forecast.weather;
-			ViewData["IconUrl"] = $"https://openweathermap.org/img/wn/{forecast.weather.First().icon}.png";
+			//Root forecast = JsonSerializer.Deserialize<Root>(responseBody)!;
 
 			return View();
+		}
+
+		public async Task<IActionResult> Forecasts(int numOfDays, string unit)
+		{
+			string baseURL = "https://localhost:7207/GetWeather";
+			string urlWithNumOfDays = $"?numOfDays={numOfDays}";
+			string urlWithUnit = $"&unit={unit}";
+			Root result = new Root();
+			
+			if (unit == null)
+			{
+				string url = baseURL + urlWithNumOfDays;
+				using HttpResponseMessage response = await _client.GetAsync(url);
+				response.EnsureSuccessStatusCode();
+				string responseBody = await response.Content.ReadAsStringAsync();
+
+				Root forecast = JsonSerializer.Deserialize<Root>(responseBody)!;
+				result = forecast;
+			}
+			else
+			{
+				string url = baseURL + urlWithNumOfDays + urlWithUnit;
+				using HttpResponseMessage response = await _client.GetAsync(url);
+				response.EnsureSuccessStatusCode();
+				string responseBody = await response.Content.ReadAsStringAsync();
+
+				Root forecast = JsonSerializer.Deserialize<Root>(responseBody)!;
+				result = forecast;
+			}
+			
+			
+			return View(result);		
 		}
 
 		public IActionResult Privacy()

@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\WeatherForecast\WeatherForecast
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Home/Forecasts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JlY2FzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
