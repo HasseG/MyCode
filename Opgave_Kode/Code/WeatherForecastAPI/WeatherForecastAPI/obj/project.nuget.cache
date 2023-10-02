@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "76zs0DAQf+83vUuItD0lZDFVCSxKHglnruATiSqubFspbR3o271rc9r+hXPGLheZYwL+8d3Jj+ddr/ZTHUF6Sw==",
+  "dgSpecHash": "d7oaWFq98wqfihtIi77jsYOY8y3Wdb1CiqiId1oi7PVasVODdX/9r+31sz5R/6w6aOGFLV2hdqk+b1csoSIR+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\WeatherForecastAPI\\WeatherForecastAPI\\WeatherForecastAPI.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\MyCode\\Opgave_Kode\\Code\\WeatherForecastAPI\\WeatherForecastAPI\\WeatherForecastAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

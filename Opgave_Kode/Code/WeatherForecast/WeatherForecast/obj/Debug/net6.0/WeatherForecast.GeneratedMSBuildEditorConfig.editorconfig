@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WeatherForecast
 build_property.RootNamespace = WeatherForecast
-build_property.ProjectDir = C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\WeatherForecast\WeatherForecast\
+build_property.ProjectDir = C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\MyCode\Opgave_Kode\Code\WeatherForecast\WeatherForecast\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Bruger\Desktop\Studie\GItHub\MyCode\Opgave_Kode\Code\WeatherForecast\WeatherForecast
+build_property.MSBuildProjectDirectory = C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\MyCode\Opgave_Kode\Code\WeatherForecast\WeatherForecast
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Home/Forecasts.cshtml]
+[C:/Users/Bruger/Desktop/Studie/GitHub/MyCode/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Home/Forecasts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JlY2FzdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Home/Index.cshtml]
+[C:/Users/Bruger/Desktop/Studie/GitHub/MyCode/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Home/Privacy.cshtml]
+[C:/Users/Bruger/Desktop/Studie/GitHub/MyCode/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Shared/Error.cshtml]
+[C:/Users/Bruger/Desktop/Studie/GitHub/MyCode/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Bruger/Desktop/Studie/GitHub/MyCode/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/_ViewImports.cshtml]
+[C:/Users/Bruger/Desktop/Studie/GitHub/MyCode/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/_ViewStart.cshtml]
+[C:/Users/Bruger/Desktop/Studie/GitHub/MyCode/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruger/Desktop/Studie/GItHub/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Shared/_Layout.cshtml]
+[C:/Users/Bruger/Desktop/Studie/GitHub/MyCode/MyCode/Opgave_Kode/Code/WeatherForecast/WeatherForecast/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-iic715x2fy

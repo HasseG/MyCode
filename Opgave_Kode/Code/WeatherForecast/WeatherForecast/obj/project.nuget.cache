@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gP9LsTMWGfpeI5vS/7lK+6D8Lhypoys5hRrd91rhpVpXR1F/v2Vrpg+bylyXkWtgoordHo6IyYERi+rlaZUSaA==",
+  "dgSpecHash": "weVfXpqO8i2MrHECTvhmRDEjRTDWskPXh/l7XZ4MQvFV43inghDDUUooEU9y3I5fFAXSugzIflz46ZDAEsZJfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\Desktop\\Studie\\GitHub\\MyCode\\MyCode\\Opgave_Kode\\Code\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

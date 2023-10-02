@@ -31,7 +31,7 @@ namespace WeatherForecast.Controllers
 
 		public async Task<IActionResult> Forecasts(int numOfDays, string unit)
 		{
-			string baseURL = "https://localhost:7207/GetWeather";
+			string baseURL = "https://localhost:7207/api/v1/WeatherForecast";
 			string urlWithNumOfDays = $"?numOfDays={numOfDays}";
 			string urlWithUnit = $"&unit={unit}";
 			Root result = new Root();

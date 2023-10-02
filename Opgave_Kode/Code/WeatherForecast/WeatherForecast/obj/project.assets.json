@@ -9549,11 +9549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Studie\\GitHub\\MyCode\\MyCode\\Opgave_Kode\\Code\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
       "projectName": "WeatherForecast",
-      "projectPath": "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
+      "projectPath": "C:\\Users\\Bruger\\Desktop\\Studie\\GitHub\\MyCode\\MyCode\\Opgave_Kode\\Code\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\WeatherForecast\\WeatherForecast\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\Desktop\\Studie\\GitHub\\MyCode\\MyCode\\Opgave_Kode\\Code\\WeatherForecast\\WeatherForecast\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
