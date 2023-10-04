@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\bin\Debug\net6.0\ThreadSafety.exe
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\bin\Debug\net6.0\ThreadSafety.deps.json
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\bin\Debug\net6.0\ThreadSafety.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\bin\Debug\net6.0\ThreadSafety.dll
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\bin\Debug\net6.0\ThreadSafety.pdb
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\ThreadSafety.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\ThreadSafety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\ThreadSafety.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\ThreadSafety.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\ThreadSafety.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\ThreadSafety.dll
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\refint\ThreadSafety.dll
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\ThreadSafety.pdb
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\ThreadSafety.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\ThreadSafety\ThreadSafety\obj\Debug\net6.0\ref\ThreadSafety.dll

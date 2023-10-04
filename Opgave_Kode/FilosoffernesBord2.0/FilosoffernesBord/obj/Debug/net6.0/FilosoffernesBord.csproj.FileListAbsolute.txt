@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\bin\Debug\net6.0\FilosoffernesBord.exe
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\bin\Debug\net6.0\FilosoffernesBord.deps.json
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\bin\Debug\net6.0\FilosoffernesBord.runtimeconfig.json
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\bin\Debug\net6.0\FilosoffernesBord.dll
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\bin\Debug\net6.0\FilosoffernesBord.pdb
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\FilosoffernesBord.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\FilosoffernesBord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\FilosoffernesBord.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\FilosoffernesBord.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\FilosoffernesBord.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\FilosoffernesBord.dll
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\refint\FilosoffernesBord.dll
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\FilosoffernesBord.pdb
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\FilosoffernesBord.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Studie\GitHub\MyCode\Opgave_Kode\Code\FilosoffernesBord\FilosoffernesBord\obj\Debug\net6.0\ref\FilosoffernesBord.dll
