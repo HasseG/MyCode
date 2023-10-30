@@ -1,0 +1,110 @@
+﻿@page "/fetchdata"
+@inject HttpClient Http
+
+<PageTitle>Weather forecast</PageTitle>
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (root == null)
+{
+	<p><em>Loading...</em></p>
+}
+else
+{
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Date</th>
+				<th>Temp. (C)</th>
+				<th>Temp. (F)</th>
+				<th>Summary</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var forecast in root.weather)
+			{
+				<tr>
+					<td>@Convert.ToDateTime(root.id)</td>
+					<td>@root.main.temp</td>
+					<td>@root.main.temp_max</td>
+					<td>@root.main.temp_min</td>
+					<td>@forecast.description</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+
+@code {
+	private Root? root;
+
+	protected override async Task OnInitializedAsync()
+	{
+		root = await Http.GetFromJsonAsync<Root>("api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=b2eb1817e794b2764020207d96717449");
+	}
+
+	public class Clouds
+	{
+		public int all { get; set; }
+	}
+
+	public class Coord
+	{
+		public double lon { get; set; }
+		public double lat { get; set; }
+	}
+
+	public class Main
+	{
+		public double temp { get; set; }
+		public double feels_like { get; set; }
+		public double temp_min { get; set; }
+		public double temp_max { get; set; }
+		public int pressure { get; set; }
+		public int humidity { get; set; }
+	}
+
+	public class Root
+	{
+		public Coord coord { get; set; }
+		public List<Weather> weather { get; set; }
+		public string @base { get; set; }
+		public Main main { get; set; }
+		public int visibility { get; set; }
+		public Wind wind { get; set; }
+		public Clouds clouds { get; set; }
+		public int dt { get; set; }
+		public Sys sys { get; set; }
+		public int timezone { get; set; }
+		public int id { get; set; }
+		public string name { get; set; }
+		public int cod { get; set; }
+	}
+
+	public class Sys
+	{
+		public int type { get; set; }
+		public int id { get; set; }
+		public string country { get; set; }
+		public int sunrise { get; set; }
+		public int sunset { get; set; }
+	}
+
+	public class Weather
+	{
+		public int id { get; set; }
+		public string main { get; set; }
+		public string description { get; set; }
+		public string icon { get; set; }
+	}
+
+	public class Wind
+	{
+		public double speed { get; set; }
+		public int deg { get; set; }
+	}
+
+
+}
