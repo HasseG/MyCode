@@ -3,5 +3,6 @@
     public interface IMessage
     {
         string PrintMessage(string message);
+        string PrintMessage();
     }
 }

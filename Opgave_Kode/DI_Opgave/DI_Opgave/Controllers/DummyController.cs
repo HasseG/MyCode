@@ -12,7 +12,8 @@ namespace DI_Opgave.Controllers
         
         public string Index()
         {
-            return _iMessage.PrintMessage("Hello World!");
+            var message = _iMessage.PrintMessage() + " " + _iMessage.PrintMessage("Hello World!");
+            return _iMessage.PrintMessage();
         }
     }
 }

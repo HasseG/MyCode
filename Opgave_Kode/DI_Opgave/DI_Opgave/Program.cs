@@ -12,6 +12,7 @@ namespace DI_Opgave
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddScoped<IMessage, Dummy>();
+            builder.Services.AddScoped<IMessage, Dummy2>();
 
             var app = builder.Build();
 

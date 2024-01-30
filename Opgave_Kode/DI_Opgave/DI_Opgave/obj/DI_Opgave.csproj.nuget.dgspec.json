@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\DI_Opgave\\DI_Opgave\\DI_Opgave.csproj": {}
+    "C:\\Users\\Bruger\\Desktop\\Studie\\GitHub\\MyCode\\Opgave_Kode\\DI_Opgave\\DI_Opgave\\DI_Opgave.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\DI_Opgave\\DI_Opgave\\DI_Opgave.csproj": {
+    "C:\\Users\\Bruger\\Desktop\\Studie\\GitHub\\MyCode\\Opgave_Kode\\DI_Opgave\\DI_Opgave\\DI_Opgave.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\DI_Opgave\\DI_Opgave\\DI_Opgave.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Studie\\GitHub\\MyCode\\Opgave_Kode\\DI_Opgave\\DI_Opgave\\DI_Opgave.csproj",
         "projectName": "DI_Opgave",
-        "projectPath": "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\DI_Opgave\\DI_Opgave\\DI_Opgave.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Desktop\\Studie\\GitHub\\MyCode\\Opgave_Kode\\DI_Opgave\\DI_Opgave\\DI_Opgave.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\Desktop\\Studie\\GItHub\\MyCode\\Opgave_Kode\\Code\\DI_Opgave\\DI_Opgave\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Desktop\\Studie\\GitHub\\MyCode\\Opgave_Kode\\DI_Opgave\\DI_Opgave\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",

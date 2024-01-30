@@ -4,7 +4,11 @@
     {
         public string PrintMessage(string message)
         {
-            return message;
+            return message + " dummy";
+        }
+        public string PrintMessage()
+        {
+            return "this is dummy class";
         }
     }
 }
